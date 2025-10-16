@@ -8,7 +8,7 @@
 
 📘 Currently learning **Data Analysis & Visualization**  
 💡 Building hands-on projects with **Python, Pandas, NumPy, Matplotlib, and Power BI**  
-🎯 Goal: Become a **Data Analyst / Business Analyst**  
+🎯 Goal: Become a **Data Analyst / Data Scientist**  
 📍 Based in **Hyderabad, India**
 
 ---
